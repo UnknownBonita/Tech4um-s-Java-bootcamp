@@ -2,7 +2,7 @@
 package task1_camp;
 import java.util.Scanner;
 /**
- * ID 5
+ * This program is the first task in Programming Summer Camp.
  * @author Ghaid E. Althobaity
  */
 public class TASK1_CAMP {
@@ -14,6 +14,7 @@ public class TASK1_CAMP {
         text = keyboard.nextLine();//scan val
         Cipher(text);//send to method
     }
+    
     /**
      * a method that use Caesar cipher teqneace
      * @param text 
